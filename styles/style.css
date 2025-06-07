@@ -61,7 +61,7 @@
   display: inline-block;
   width: 9px;
   height: 9px;
-  background-color: var(--accent-color); 
+  background-color: var(--accent-color);
   border-radius: 50%;
   margin-left: 10px;
   margin-right: 10px;
@@ -241,7 +241,7 @@
 
 @media (width >= 768px) {
   .header {
-    padding: 20px 20px 20px 0; 
+    padding: 20px 20px 20px 0;
     max-block-size: 1024px;
   }
 
@@ -251,7 +251,7 @@
   }
   
   .decorated-zone::after {
-    bottom: 20px; 
+    bottom: 20px;
     left: 20px;
   }
 
