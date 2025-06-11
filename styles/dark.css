@@ -15,3 +15,7 @@
   --border-hover-button: rgba(255, 0, 112, 0.4);
   --content-title-color: rgba(255, 0, 112, 1);
 }
+
+.theme-dark .header_decoration_rec {
+  display: block;
+}

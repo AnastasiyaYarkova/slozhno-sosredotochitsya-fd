@@ -35,40 +35,8 @@
     display: none;
   }
 
-  .header__theme-menu {
-  margin-block-start: 63px;
 }
 
-@media (width >= 768px) {
-  .header__theme-menu {
-    margin-block-start: 172px;
-}
-
-@media (width >= 1024px) {
-  .header__theme-menu {
-    margin-block-start: 0px;
-}
-}
-
-}
-
-}
 .theme-light .header_decoration_rec {
   display: none;
-}
-
-.theme-light .header__theme-menu {
-  margin-block-start: 63px;
-}
-
-@media (width >= 768px) {
-  .theme-light .header__theme-menu {
-    margin-block-start: 172px;
-}
-}
-
-@media (width >= 1024px) {
-  .theme-light .header__theme-menu {
-    margin-block-start: 0px;
-}
 }
